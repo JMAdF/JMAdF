@@ -7,8 +7,8 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img width="120" height="120" src="https://img.icons8.com/ios-filled/120/000000/php-logo.png" alt="php-logo"/>
-   <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo" width="120" alt="MySQL">
+  <img width="120" height="120" src="https://img.icons8.com/wired/120/php-logo.png" alt="php-logo"/>
+  <img width="120" height="120" src="https://img.icons8.com/color/120/mysql-logo.png" alt="mysql-logo"/>
     
 </table>
 
