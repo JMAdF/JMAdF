@@ -7,12 +7,16 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img width="120" height="120" src="https://img.icons8.com/wired/120/php-logo.png" alt="php-logo"/>
+  <img width="64" height="64" src="https://img.icons8.com/wired/64/000000/php-logo.png" alt="php-logo"/>
   <img width="120" height="120" src="https://img.icons8.com/color/120/mysql-logo.png" alt="mysql-logo"/>
     
 </table>
 
 <div> 
-  <a href = "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&emr=1&ltmpl=default&ltmplcache=2&osid=1&passive=true&rm=false&scc=1&service=mail&ss=1&ifkv=ARZ0qKI6A-lvezHi0ivzLbmOdR0-MZ4BSKFudh62OvhDWlBV4boWzv19hNmCehKAq3WdUDmdlEwr&theme=mn&ddm=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> joaomarcioareal@gmail.com</a>
   <a href="https://www.linkedin.com/in/joaomarcioaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
